@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1553102022 source:f:\1ra evaluacion\examen\exa\examen_unidad2\main.cpp
+	<iostream>
+	"ClistaDE.h"
+
+1553102732 f:\1ra evaluacion\examen\exa\examen_unidad2\clistade.h
+	<iostream>
+	"CNodoDE.h"
+
+1552606630 f:\1ra evaluacion\examen\exa\examen_unidad2\cnodode.h
+	<iostream>
+
+1553707701 source:c:\users\alumno\desktop\examen_unidad2_rubenalonsodelgadoespitia\examen_unidad2\main.cpp
+	<iostream>
+	"ClistaDE.h"
+
+1553705785 c:\users\alumno\desktop\examen_unidad2_rubenalonsodelgadoespitia\examen_unidad2\clistade.h
+	<iostream>
+	"CNodoDE.h"
+
+1552606630 c:\users\alumno\desktop\examen_unidad2_rubenalonsodelgadoespitia\examen_unidad2\cnodode.h
+	<iostream>
+
